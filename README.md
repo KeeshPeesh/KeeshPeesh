@@ -1,15 +1,23 @@
-# Hi, I’m Keesh! 👋
+
+# Hi there, I’m Keesh! 👋
 
 ## About Me
-- 👀 I’m passionate about **Computers** and technology.
-- 🌱 Currently learning **JavaScript** to enhance my web development skills.
-- 💞️ I’m open to collaborating on **any projects** let's build something awesome!
-- 📫 You can reach me via **Email**.
+- 👀 I have a deep passion for **computers** and technology. I love exploring how things work and finding innovative solutions.
+- 🌱 Currently expanding my skills by learning **JavaScript** for web development.
+- 💞️ I’m excited to collaborate on **any projects**—let’s create something amazing together! Whether it’s web development, coding challenges, or open-source contributions, I’m all in!
+- 📫 Feel free to reach out to me via **email**—I'm always open to discussing new ideas or just having a chat!
 
-## Fun Fact
-⚡ **I can build a computer** from scratch! 
+## Skills
+- 💻 Proficient in **HTML**, **CSS**, and **JavaScript**.
+- 🛠 Familiar with **Git** for version control and collaboration.
+- 📱 Learning about **responsive design** to make web applications accessible on all devices.
+
+## Interests
+- 🌍 I enjoy exploring emerging technologies like **AI** and **Machine Learning**.
+- 🎮 In my spare time, I love playing video games and understanding their mechanics.
+- 📖 I’m an avid reader, particularly interested in science fiction and tech-related books.
 
 <!---
-KeeshPeesh/KeeshPeesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+KeeshPeesh/KeeshPeesh is a ✨ special ✨ repository because this `README.md` appears on my GitHub profile.
+Click the Preview link to view any changes I’ve made.
 --->
