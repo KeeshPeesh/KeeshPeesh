@@ -15,7 +15,6 @@
 ## Interests
 - 🌍 I enjoy exploring emerging technologies like **AI** and **Machine Learning**.
 - 🎮 In my spare time, I love playing video games and understanding their mechanics.
-- 📖 I’m an avid reader, particularly interested in science fiction and tech-related books.
 
 <!---
 KeeshPeesh/KeeshPeesh is a ✨ special ✨ repository because this `README.md` appears on my GitHub profile.
